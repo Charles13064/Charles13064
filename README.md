@@ -3,7 +3,20 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/charles-muhanji-80810636b/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ ODANGA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charlesmuhanji13064@gmail.com) 
+### 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/charles-muhanji-80810636b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/charlesmuhanji" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-00ffff?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
+  </a>
+  <a href="mailto:charlesmuhanji@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-00ffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
+  </a>
+</p>
+
 
 # 💻 Tech :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
