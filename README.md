@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/charlesmuhanji" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-00ffff?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
   </a>
-  <a href="mailto:charlesmuhanji@gmail.com" target="_blank">
+  <a href="mailto:charlesmuhanji13064@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-00ffff?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
   </a>
 </p>
