@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/charles-muhanji-80810636b" target="_blank">
+    <i class="fa fa-linkedin-square" aria-hidden="true"></i>
     <img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/charlesmuhanji" target="_blank">
@@ -28,7 +29,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Charles13064&theme=synthwave&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
